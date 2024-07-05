@@ -1,6 +1,6 @@
-# Java Database Connection (JDBC) Example with Student Database Manager
+# Java Database Connectivity (JDBC) : Managing Student Database Operations with Fetch, Insert, Update, and Delete
 
-This repository contains Java code for managing a student database using JDBC (Java Database Connectivity). The `StudentDatabaseManager` class demonstrates basic operations such as inserting, fetching, updating, and deleting student records.
+This repository contains Java code utilizing JDBC (Java Database Connectivity) for managing a student database. The `StudentDatabaseManager` class demonstrates fundamental operations such as fetching data, inserting records, updating existing entries, and deleting records. It also includes a menu-driven example that integrates all these functions to efficiently manage student data.
 
 ## Contents
 
