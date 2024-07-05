@@ -69,7 +69,15 @@ A JDBC driver is a software component that enables Java applications to interact
    
 ## Code Structure
 
-**StudentDatabaseManager.java**: Contains methods to insert, fetch, update, and delete student records in the database.
+**FetchDataJDBC.java**: [Retrieve data from a database](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity/blob/main/FetchDataJDBC.java).
+
+**InsertDataJDBC.java**: [Add new records to a database](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity/blob/main/InsertDataJDBC.java).
+
+**UpdateDataJDBC.java**: [Modify existing records](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity/blob/main/UpdateDataJDBC.java).
+
+**DeleteDataJDBC.java**: [Remove records from a database](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity/blob/main/DeleteDataJDBC.java).
+
+**StudentDatabaseManager.java**: [Contains methods to insert, fetch, update, and delete student records in the database](https://github.com/AdityaSinghMandrawal/Java-Database-Connectivity/blob/main/StudentDatabaseManager.java).
 
 ## Usage
 
